@@ -1,0 +1,12 @@
+D:\Laboratorni C#\C-Sharp\Lab2\bin\Debug\netcoreapp3.1\Lab2.exe
+D:\Laboratorni C#\C-Sharp\Lab2\bin\Debug\netcoreapp3.1\Lab2.deps.json
+D:\Laboratorni C#\C-Sharp\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.json
+D:\Laboratorni C#\C-Sharp\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.dev.json
+D:\Laboratorni C#\C-Sharp\Lab2\bin\Debug\netcoreapp3.1\Lab2.dll
+D:\Laboratorni C#\C-Sharp\Lab2\bin\Debug\netcoreapp3.1\Lab2.pdb
+D:\Laboratorni C#\C-Sharp\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfoInputs.cache
+D:\Laboratorni C#\C-Sharp\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfo.cs
+D:\Laboratorni C#\C-Sharp\Lab2\obj\Debug\netcoreapp3.1\Lab2.csproj.CoreCompileInputs.cache
+D:\Laboratorni C#\C-Sharp\Lab2\obj\Debug\netcoreapp3.1\Lab2.dll
+D:\Laboratorni C#\C-Sharp\Lab2\obj\Debug\netcoreapp3.1\Lab2.pdb
+D:\Laboratorni C#\C-Sharp\Lab2\obj\Debug\netcoreapp3.1\Lab2.genruntimeconfig.cache
