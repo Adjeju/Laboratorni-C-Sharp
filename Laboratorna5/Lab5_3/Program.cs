@@ -11,21 +11,17 @@ namespace Lab2_3
             Console.Write("E = ");
             double E = Convert.ToDouble(Console.ReadLine());
 
+            double static_value = Math.Pow(x, 2) / Math.Pow(Math.PI, 2); 
             double problem = 0;
-            double result = 0;
-            int i = 0;
+            double result = x;
+            int i = 2;
 
             while (true)
             {
-                problem =(double)(1 - 4 * Math.Pow(x, 2) / (Math.Pow((2 * i - 1), 2) * Math.Pow(Math.PI, 2)));
-                result *= problem;
-                Console.WriteLine(result);
-                Console.WriteLine(problem);
-                if (Math.Abs(problem) < E)
-                {
-                    break;
-                }
+                problem = 1 - static_value / (Math.Pow((i - 1), 2));
                 i += 1;
+                if (Math.Abs(problem) < E) break;
+                result *= problem;
             }
 
             Console.WriteLine("Result: {0}",result);

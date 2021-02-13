@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Laboratorni-C-Sharp\\Laboratorna2\\Lab2_3\\Lab2_3.csproj": {}
+    "D:\\Laboratorni-C-Sharp\\Laboratorna5\\Lab5_3\\Lab2_3.csproj": {}
   },
   "projects": {
-    "D:\\Laboratorni-C-Sharp\\Laboratorna2\\Lab2_3\\Lab2_3.csproj": {
+    "D:\\Laboratorni-C-Sharp\\Laboratorna5\\Lab5_3\\Lab2_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Laboratorni-C-Sharp\\Laboratorna2\\Lab2_3\\Lab2_3.csproj",
+        "projectUniqueName": "D:\\Laboratorni-C-Sharp\\Laboratorna5\\Lab5_3\\Lab2_3.csproj",
         "projectName": "Lab2_3",
-        "projectPath": "D:\\Laboratorni-C-Sharp\\Laboratorna2\\Lab2_3\\Lab2_3.csproj",
+        "projectPath": "D:\\Laboratorni-C-Sharp\\Laboratorna5\\Lab5_3\\Lab2_3.csproj",
         "packagesPath": "C:\\Users\\andri\\.nuget\\packages\\",
-        "outputPath": "D:\\Laboratorni-C-Sharp\\Laboratorna2\\Lab2_3\\obj\\",
+        "outputPath": "D:\\Laboratorni-C-Sharp\\Laboratorna5\\Lab5_3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andri\\AppData\\Roaming\\NuGet\\NuGet.Config",
