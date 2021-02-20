@@ -1,0 +1,12 @@
+D:\C# tests\Training\bin\Debug\netcoreapp3.1\Training.exe
+D:\C# tests\Training\bin\Debug\netcoreapp3.1\Training.deps.json
+D:\C# tests\Training\bin\Debug\netcoreapp3.1\Training.runtimeconfig.json
+D:\C# tests\Training\bin\Debug\netcoreapp3.1\Training.runtimeconfig.dev.json
+D:\C# tests\Training\bin\Debug\netcoreapp3.1\Training.dll
+D:\C# tests\Training\bin\Debug\netcoreapp3.1\Training.pdb
+D:\C# tests\Training\obj\Debug\netcoreapp3.1\Training.AssemblyInfoInputs.cache
+D:\C# tests\Training\obj\Debug\netcoreapp3.1\Training.AssemblyInfo.cs
+D:\C# tests\Training\obj\Debug\netcoreapp3.1\Training.csproj.CoreCompileInputs.cache
+D:\C# tests\Training\obj\Debug\netcoreapp3.1\Training.dll
+D:\C# tests\Training\obj\Debug\netcoreapp3.1\Training.pdb
+D:\C# tests\Training\obj\Debug\netcoreapp3.1\Training.genruntimeconfig.cache
