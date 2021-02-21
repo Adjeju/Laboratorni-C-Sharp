@@ -1,0 +1,13 @@
+D:\C# tests\Bomber\obj\Debug\netcoreapp3.1\Bomber.csprojAssemblyReference.cache
+D:\C# tests\Bomber\obj\Debug\netcoreapp3.1\Bomber.AssemblyInfoInputs.cache
+D:\C# tests\Bomber\obj\Debug\netcoreapp3.1\Bomber.AssemblyInfo.cs
+D:\C# tests\Bomber\obj\Debug\netcoreapp3.1\Bomber.csproj.CoreCompileInputs.cache
+D:\C# tests\Bomber\bin\Debug\netcoreapp3.1\Bomber.exe
+D:\C# tests\Bomber\bin\Debug\netcoreapp3.1\Bomber.deps.json
+D:\C# tests\Bomber\bin\Debug\netcoreapp3.1\Bomber.runtimeconfig.json
+D:\C# tests\Bomber\bin\Debug\netcoreapp3.1\Bomber.runtimeconfig.dev.json
+D:\C# tests\Bomber\bin\Debug\netcoreapp3.1\Bomber.dll
+D:\C# tests\Bomber\bin\Debug\netcoreapp3.1\Bomber.pdb
+D:\C# tests\Bomber\obj\Debug\netcoreapp3.1\Bomber.dll
+D:\C# tests\Bomber\obj\Debug\netcoreapp3.1\Bomber.pdb
+D:\C# tests\Bomber\obj\Debug\netcoreapp3.1\Bomber.genruntimeconfig.cache
