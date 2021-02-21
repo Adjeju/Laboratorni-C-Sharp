@@ -16,18 +16,19 @@ namespace Bomber
 
         }
         static void Main(string[] args)
-        {
+        {   
+            Console.WriteLine("Welcome to BOMBER");
             bool plaing = true;
             string[] boardExample = new string[10];
             Console.WriteLine("Position numbers of bombs");
+            for (int i = 0; i < boardExample.Length; i++)
+            {
+                boardExample[i] = Convert.ToString(i);
+            }
+            printBoard(boardExample);
             while (plaing)
             {
                 //boards
-                for (int i = 0; i < boardExample.Length; i++)
-                {
-                    boardExample[i] = Convert.ToString(i);
-                }
-                printBoard(boardExample);
                 string[] board = new string[boardExample.Length];
                 for (int i = 0; i < board.Length; i++)
                 {
