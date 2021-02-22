@@ -63,15 +63,18 @@ namespace Bomber
                         correctCount++;
                     }
                     else Console.WriteLine("There isn't any bomb there!");
-                    if (correctCount == bombNumber) break;
+                    if (correctCount == bombNumber)
+                    {
+                        Console.WriteLine("You win!");
+                    }
                 }
                 for (int i = 0; i < board.Length; i++)
                 {
                     if (boardCopy[i] == "O") board[i] = "O";
                 }
+                Console.WriteLine("Correct answers: {0}",correctCount);
                 Console.WriteLine("Positions, where bobms were:");
                 printBoard(board);
-                Console.WriteLine("Correct answers: {0}", correctCount);
                 Console.Write("Do you want to continue (t / f): ");
                 string continuePlaying = Console.ReadLine();
                 if (continuePlaying != "t") plaing = false;
