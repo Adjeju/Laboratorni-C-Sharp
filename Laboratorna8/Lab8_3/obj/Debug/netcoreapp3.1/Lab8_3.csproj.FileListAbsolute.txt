@@ -1,0 +1,13 @@
+D:\Laboratorni-C-Sharp\Laboratorna8\Lab8_3\bin\Debug\netcoreapp3.1\Lab8_3.exe
+D:\Laboratorni-C-Sharp\Laboratorna8\Lab8_3\bin\Debug\netcoreapp3.1\Lab8_3.deps.json
+D:\Laboratorni-C-Sharp\Laboratorna8\Lab8_3\bin\Debug\netcoreapp3.1\Lab8_3.runtimeconfig.json
+D:\Laboratorni-C-Sharp\Laboratorna8\Lab8_3\bin\Debug\netcoreapp3.1\Lab8_3.runtimeconfig.dev.json
+D:\Laboratorni-C-Sharp\Laboratorna8\Lab8_3\bin\Debug\netcoreapp3.1\Lab8_3.dll
+D:\Laboratorni-C-Sharp\Laboratorna8\Lab8_3\bin\Debug\netcoreapp3.1\Lab8_3.pdb
+D:\Laboratorni-C-Sharp\Laboratorna8\Lab8_3\obj\Debug\netcoreapp3.1\Lab8_3.csprojAssemblyReference.cache
+D:\Laboratorni-C-Sharp\Laboratorna8\Lab8_3\obj\Debug\netcoreapp3.1\Lab8_3.AssemblyInfoInputs.cache
+D:\Laboratorni-C-Sharp\Laboratorna8\Lab8_3\obj\Debug\netcoreapp3.1\Lab8_3.AssemblyInfo.cs
+D:\Laboratorni-C-Sharp\Laboratorna8\Lab8_3\obj\Debug\netcoreapp3.1\Lab8_3.csproj.CoreCompileInputs.cache
+D:\Laboratorni-C-Sharp\Laboratorna8\Lab8_3\obj\Debug\netcoreapp3.1\Lab8_3.dll
+D:\Laboratorni-C-Sharp\Laboratorna8\Lab8_3\obj\Debug\netcoreapp3.1\Lab8_3.pdb
+D:\Laboratorni-C-Sharp\Laboratorna8\Lab8_3\obj\Debug\netcoreapp3.1\Lab8_3.genruntimeconfig.cache
