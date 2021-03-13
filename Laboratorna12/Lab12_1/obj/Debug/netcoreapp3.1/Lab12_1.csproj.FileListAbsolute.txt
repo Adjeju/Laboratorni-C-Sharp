@@ -1,0 +1,13 @@
+D:\Laboratorni-C-Sharp\Laboratorna12\Lab12_1\obj\Debug\netcoreapp3.1\Lab12_1.csprojAssemblyReference.cache
+D:\Laboratorni-C-Sharp\Laboratorna12\Lab12_1\obj\Debug\netcoreapp3.1\Lab12_1.AssemblyInfoInputs.cache
+D:\Laboratorni-C-Sharp\Laboratorna12\Lab12_1\obj\Debug\netcoreapp3.1\Lab12_1.AssemblyInfo.cs
+D:\Laboratorni-C-Sharp\Laboratorna12\Lab12_1\obj\Debug\netcoreapp3.1\Lab12_1.csproj.CoreCompileInputs.cache
+D:\Laboratorni-C-Sharp\Laboratorna12\Lab12_1\bin\Debug\netcoreapp3.1\Lab12_1.exe
+D:\Laboratorni-C-Sharp\Laboratorna12\Lab12_1\bin\Debug\netcoreapp3.1\Lab12_1.deps.json
+D:\Laboratorni-C-Sharp\Laboratorna12\Lab12_1\bin\Debug\netcoreapp3.1\Lab12_1.runtimeconfig.json
+D:\Laboratorni-C-Sharp\Laboratorna12\Lab12_1\bin\Debug\netcoreapp3.1\Lab12_1.runtimeconfig.dev.json
+D:\Laboratorni-C-Sharp\Laboratorna12\Lab12_1\bin\Debug\netcoreapp3.1\Lab12_1.dll
+D:\Laboratorni-C-Sharp\Laboratorna12\Lab12_1\bin\Debug\netcoreapp3.1\Lab12_1.pdb
+D:\Laboratorni-C-Sharp\Laboratorna12\Lab12_1\obj\Debug\netcoreapp3.1\Lab12_1.dll
+D:\Laboratorni-C-Sharp\Laboratorna12\Lab12_1\obj\Debug\netcoreapp3.1\Lab12_1.pdb
+D:\Laboratorni-C-Sharp\Laboratorna12\Lab12_1\obj\Debug\netcoreapp3.1\Lab12_1.genruntimeconfig.cache
