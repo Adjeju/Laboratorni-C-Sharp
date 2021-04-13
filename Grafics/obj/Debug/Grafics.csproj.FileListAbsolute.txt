@@ -1,0 +1,10 @@
+D:\C# tests\Grafics\bin\Debug\Grafics.exe.config
+D:\C# tests\Grafics\bin\Debug\Grafics.exe
+D:\C# tests\Grafics\bin\Debug\Grafics.pdb
+D:\C# tests\Grafics\obj\Debug\Grafics.csprojAssemblyReference.cache
+D:\C# tests\Grafics\obj\Debug\Grafics.Form1.resources
+D:\C# tests\Grafics\obj\Debug\Grafics.Properties.Resources.resources
+D:\C# tests\Grafics\obj\Debug\Grafics.csproj.GenerateResource.cache
+D:\C# tests\Grafics\obj\Debug\Grafics.csproj.CoreCompileInputs.cache
+D:\C# tests\Grafics\obj\Debug\Grafics.exe
+D:\C# tests\Grafics\obj\Debug\Grafics.pdb

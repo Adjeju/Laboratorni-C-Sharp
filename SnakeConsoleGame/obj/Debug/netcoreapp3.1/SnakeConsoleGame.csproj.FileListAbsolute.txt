@@ -1,0 +1,13 @@
+D:\C# tests\SnakeConsoleGame\bin\Debug\netcoreapp3.1\SnakeConsoleGame.exe
+D:\C# tests\SnakeConsoleGame\bin\Debug\netcoreapp3.1\SnakeConsoleGame.deps.json
+D:\C# tests\SnakeConsoleGame\bin\Debug\netcoreapp3.1\SnakeConsoleGame.runtimeconfig.json
+D:\C# tests\SnakeConsoleGame\bin\Debug\netcoreapp3.1\SnakeConsoleGame.runtimeconfig.dev.json
+D:\C# tests\SnakeConsoleGame\bin\Debug\netcoreapp3.1\SnakeConsoleGame.dll
+D:\C# tests\SnakeConsoleGame\bin\Debug\netcoreapp3.1\SnakeConsoleGame.pdb
+D:\C# tests\SnakeConsoleGame\obj\Debug\netcoreapp3.1\SnakeConsoleGame.csprojAssemblyReference.cache
+D:\C# tests\SnakeConsoleGame\obj\Debug\netcoreapp3.1\SnakeConsoleGame.AssemblyInfoInputs.cache
+D:\C# tests\SnakeConsoleGame\obj\Debug\netcoreapp3.1\SnakeConsoleGame.AssemblyInfo.cs
+D:\C# tests\SnakeConsoleGame\obj\Debug\netcoreapp3.1\SnakeConsoleGame.csproj.CoreCompileInputs.cache
+D:\C# tests\SnakeConsoleGame\obj\Debug\netcoreapp3.1\SnakeConsoleGame.dll
+D:\C# tests\SnakeConsoleGame\obj\Debug\netcoreapp3.1\SnakeConsoleGame.pdb
+D:\C# tests\SnakeConsoleGame\obj\Debug\netcoreapp3.1\SnakeConsoleGame.genruntimeconfig.cache
