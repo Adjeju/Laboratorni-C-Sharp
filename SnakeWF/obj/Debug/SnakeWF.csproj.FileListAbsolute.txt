@@ -1,0 +1,10 @@
+D:\C# tests\SnakeWF\bin\Debug\SnakeWF.exe.config
+D:\C# tests\SnakeWF\bin\Debug\SnakeWF.exe
+D:\C# tests\SnakeWF\bin\Debug\SnakeWF.pdb
+D:\C# tests\SnakeWF\obj\Debug\SnakeWF.csprojAssemblyReference.cache
+D:\C# tests\SnakeWF\obj\Debug\SnakeWF.Form1.resources
+D:\C# tests\SnakeWF\obj\Debug\SnakeWF.Properties.Resources.resources
+D:\C# tests\SnakeWF\obj\Debug\SnakeWF.csproj.GenerateResource.cache
+D:\C# tests\SnakeWF\obj\Debug\SnakeWF.csproj.CoreCompileInputs.cache
+D:\C# tests\SnakeWF\obj\Debug\SnakeWF.exe
+D:\C# tests\SnakeWF\obj\Debug\SnakeWF.pdb
