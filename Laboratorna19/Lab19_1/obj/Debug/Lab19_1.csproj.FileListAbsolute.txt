@@ -1,0 +1,10 @@
+D:\Laboratorni-C-Sharp\Lab19_1\bin\Debug\Lab19_1.exe.config
+D:\Laboratorni-C-Sharp\Lab19_1\bin\Debug\Lab19_1.exe
+D:\Laboratorni-C-Sharp\Lab19_1\bin\Debug\Lab19_1.pdb
+D:\Laboratorni-C-Sharp\Lab19_1\obj\Debug\Lab19_1.csprojAssemblyReference.cache
+D:\Laboratorni-C-Sharp\Lab19_1\obj\Debug\Lab19_1.Form1.resources
+D:\Laboratorni-C-Sharp\Lab19_1\obj\Debug\Lab19_1.Properties.Resources.resources
+D:\Laboratorni-C-Sharp\Lab19_1\obj\Debug\Lab19_1.csproj.GenerateResource.cache
+D:\Laboratorni-C-Sharp\Lab19_1\obj\Debug\Lab19_1.csproj.CoreCompileInputs.cache
+D:\Laboratorni-C-Sharp\Lab19_1\obj\Debug\Lab19_1.exe
+D:\Laboratorni-C-Sharp\Lab19_1\obj\Debug\Lab19_1.pdb
