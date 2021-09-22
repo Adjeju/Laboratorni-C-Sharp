@@ -1,0 +1,13 @@
+D:\Laboratorni-C-Sharp\Var14\bin\Debug\Var14.exe.config
+D:\Laboratorni-C-Sharp\Var14\bin\Debug\Var14.exe
+D:\Laboratorni-C-Sharp\Var14\bin\Debug\Var14.pdb
+D:\Laboratorni-C-Sharp\Var14\obj\Debug\Var14.csprojAssemblyReference.cache
+D:\Laboratorni-C-Sharp\Var14\obj\Debug\Var14.Form1.resources
+D:\Laboratorni-C-Sharp\Var14\obj\Debug\Var14.Properties.Resources.resources
+D:\Laboratorni-C-Sharp\Var14\obj\Debug\Var14.csproj.GenerateResource.cache
+D:\Laboratorni-C-Sharp\Var14\obj\Debug\Var14.csproj.CoreCompileInputs.cache
+D:\Laboratorni-C-Sharp\Var14\obj\Debug\Var14.exe
+D:\Laboratorni-C-Sharp\Var14\obj\Debug\Var14.pdb
+D:\Laboratorni-C-Sharp\Var14\bin\Debug\Newtonsoft.Json.dll
+D:\Laboratorni-C-Sharp\Var14\bin\Debug\Newtonsoft.Json.xml
+D:\Laboratorni-C-Sharp\Var14\obj\Debug\Var14.csproj.CopyComplete
