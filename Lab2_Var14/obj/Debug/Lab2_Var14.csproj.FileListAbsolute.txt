@@ -1,0 +1,17 @@
+D:\Laboratorni-C-Sharp\Lab2_Var14\bin\Debug\Auto.mdf
+D:\Laboratorni-C-Sharp\Lab2_Var14\bin\Debug\Auto_log.ldf
+D:\Laboratorni-C-Sharp\Lab2_Var14\bin\Debug\Lab2_Var14.exe.config
+D:\Laboratorni-C-Sharp\Lab2_Var14\bin\Debug\Lab2_Var14.exe
+D:\Laboratorni-C-Sharp\Lab2_Var14\bin\Debug\Lab2_Var14.pdb
+D:\Laboratorni-C-Sharp\Lab2_Var14\bin\Debug\EntityFramework.dll
+D:\Laboratorni-C-Sharp\Lab2_Var14\bin\Debug\EntityFramework.SqlServer.dll
+D:\Laboratorni-C-Sharp\Lab2_Var14\bin\Debug\EntityFramework.xml
+D:\Laboratorni-C-Sharp\Lab2_Var14\bin\Debug\EntityFramework.SqlServer.xml
+D:\Laboratorni-C-Sharp\Lab2_Var14\bin\Debug\ru\EntityFramework.resources.dll
+D:\Laboratorni-C-Sharp\Lab2_Var14\obj\Debug\Lab2_Var14.csproj.AssemblyReference.cache
+D:\Laboratorni-C-Sharp\Lab2_Var14\obj\Debug\Lab2_Var14.Form1.resources
+D:\Laboratorni-C-Sharp\Lab2_Var14\obj\Debug\Lab2_Var14.Properties.Resources.resources
+D:\Laboratorni-C-Sharp\Lab2_Var14\obj\Debug\Lab2_Var14.csproj.GenerateResource.cache
+D:\Laboratorni-C-Sharp\Lab2_Var14\obj\Debug\Lab2_Var14.csproj.CoreCompileInputs.cache
+D:\Laboratorni-C-Sharp\Lab2_Var14\obj\Debug\Lab2_Var14.exe
+D:\Laboratorni-C-Sharp\Lab2_Var14\obj\Debug\Lab2_Var14.pdb

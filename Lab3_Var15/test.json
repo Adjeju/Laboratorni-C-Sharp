@@ -1,0 +1,42 @@
+[
+  {
+    "Code": 1,
+    "Mark": "Audi",
+    "Color": "gray",
+    "Price": 25.0,
+    "Year": "2021",
+    "Volume": 3.0
+  },
+  {
+    "Code": 2,
+    "Mark": "Camry",
+    "Color": "black",
+    "Price": 25.0,
+    "Year": "2020",
+    "Volume": 3.5
+  },
+  {
+    "Code": 3,
+    "Mark": "Tesla",
+    "Color": "red",
+    "Price": 26.0,
+    "Year": "2021",
+    "Volume": 2.0
+  },
+  {
+    "Code": 4,
+    "Mark": "Toyota",
+    "Color": "blue",
+    "Price": 25.0,
+    "Year": "2020",
+    "Volume": 2.0
+  },
+  {
+    "Code": 5,
+    "Mark": "Volkswagen",
+    "Color": "gray",
+    "Price": 26.0,
+    "Year": "2020",
+    "Volume": 1.8
+  }
+]
