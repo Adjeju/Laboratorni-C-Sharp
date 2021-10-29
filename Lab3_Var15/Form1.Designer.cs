@@ -131,7 +131,7 @@ namespace Lab3_Var15
             // saveToolStripMenuItem
             // 
             this.saveToolStripMenuItem.Name = "saveToolStripMenuItem";
-            this.saveToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.saveToolStripMenuItem.Size = new System.Drawing.Size(123, 26);
             this.saveToolStripMenuItem.Text = "Save";
             this.saveToolStripMenuItem.Click += new System.EventHandler(this.saveToolStripMenuItem_Click);
             // 
@@ -141,7 +141,7 @@ namespace Lab3_Var15
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(99, 50);
             this.button6.TabIndex = 7;
-            this.button6.Text = "Increase 15";
+            this.button6.Text = "Delete";
             this.button6.UseVisualStyleBackColor = true;
             this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
