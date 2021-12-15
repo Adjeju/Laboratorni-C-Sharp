@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 1,
+    "Mark": "Audi           ",
+    "Color": "gray           ",
+    "Price": 11111.0,
+    "Year": 2022,
+    "Volume": 3.0
+  },
+  {
+    "Id": 2,
+    "Mark": "Volkswagen     ",
+    "Color": "black          ",
+    "Price": 10000.0,
+    "Year": 2013,
+    "Volume": 1.8
+  }
+]

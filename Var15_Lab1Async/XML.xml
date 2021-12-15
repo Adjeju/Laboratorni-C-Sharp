@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<CarList>
+   <Car>
+      <Id>1</Id>
+      <Mark>Audi           </Mark>
+      <Color>gray           </Color>
+      <Price>11111</Price>
+      <Year>2022</Year>
+      <Volume>3</Volume>
+   </Car>
+   <Car>
+      <Id>2</Id>
+      <Mark>Volkswagen     </Mark>
+      <Color>black          </Color>
+      <Price>10000</Price>
+      <Year>2013</Year>
+      <Volume>1,8</Volume>
+   </Car>
+</CarList>

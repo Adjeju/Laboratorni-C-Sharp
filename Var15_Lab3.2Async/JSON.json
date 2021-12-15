@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "Name": "Audi",
+    "Color": "gray      ",
+    "Price": 50000.0,
+    "Year": 2020,
+    "Volume": 3.0
+  },
+  {
+    "Id": 2,
+    "Name": "Volkswagen",
+    "Color": "gray      ",
+    "Price": 40000.0,
+    "Year": 2021,
+    "Volume": 1.8
+  },
+  {
+    "Id": 3,
+    "Name": "Toyota",
+    "Color": "black     ",
+    "Price": 45000.0,
+    "Year": 2020,
+    "Volume": 3.5
+  },
+  {
+    "Id": 4,
+    "Name": "Mitsubishi",
+    "Color": "red       ",
+    "Price": 30000.0,
+    "Year": 2000,
+    "Volume": 2.0
+  },
+  {
+    "Id": 5,
+    "Name": "Chevrolete",
+    "Color": "yellow    ",
+    "Price": 40000.0,
+    "Year": 2019,
+    "Volume": 6.0
+  }
+]
