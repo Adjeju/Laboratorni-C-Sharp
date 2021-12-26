@@ -16,3 +16,21 @@ D:\C# tests\Var15_Lab1Async\obj\Debug\Var15_Lab1Async.csproj.GenerateResource.ca
 D:\C# tests\Var15_Lab1Async\obj\Debug\Var15_Lab1Async.csproj.CoreCompileInputs.cache
 D:\C# tests\Var15_Lab1Async\obj\Debug\Var15_Lab1Async.exe
 D:\C# tests\Var15_Lab1Async\obj\Debug\Var15_Lab1Async.pdb
+D:\Laboratorni-C-Sharp\Var15_Lab1Async\bin\Debug\Car.mdf
+D:\Laboratorni-C-Sharp\Var15_Lab1Async\bin\Debug\Car_log.ldf
+D:\Laboratorni-C-Sharp\Var15_Lab1Async\bin\Debug\Var15_Lab1Async.exe.config
+D:\Laboratorni-C-Sharp\Var15_Lab1Async\bin\Debug\Var15_Lab1Async.exe
+D:\Laboratorni-C-Sharp\Var15_Lab1Async\bin\Debug\Var15_Lab1Async.pdb
+D:\Laboratorni-C-Sharp\Var15_Lab1Async\bin\Debug\EntityFramework.dll
+D:\Laboratorni-C-Sharp\Var15_Lab1Async\bin\Debug\EntityFramework.SqlServer.dll
+D:\Laboratorni-C-Sharp\Var15_Lab1Async\bin\Debug\Newtonsoft.Json.dll
+D:\Laboratorni-C-Sharp\Var15_Lab1Async\bin\Debug\EntityFramework.xml
+D:\Laboratorni-C-Sharp\Var15_Lab1Async\bin\Debug\EntityFramework.SqlServer.xml
+D:\Laboratorni-C-Sharp\Var15_Lab1Async\bin\Debug\Newtonsoft.Json.xml
+D:\Laboratorni-C-Sharp\Var15_Lab1Async\obj\Debug\Var15_Lab1Async.csproj.AssemblyReference.cache
+D:\Laboratorni-C-Sharp\Var15_Lab1Async\obj\Debug\Var15_Lab1Async.Form1.resources
+D:\Laboratorni-C-Sharp\Var15_Lab1Async\obj\Debug\Var15_Lab1Async.Properties.Resources.resources
+D:\Laboratorni-C-Sharp\Var15_Lab1Async\obj\Debug\Var15_Lab1Async.csproj.GenerateResource.cache
+D:\Laboratorni-C-Sharp\Var15_Lab1Async\obj\Debug\Var15_Lab1Async.csproj.CoreCompileInputs.cache
+D:\Laboratorni-C-Sharp\Var15_Lab1Async\obj\Debug\Var15_Lab1Async.exe
+D:\Laboratorni-C-Sharp\Var15_Lab1Async\obj\Debug\Var15_Lab1Async.pdb

@@ -14,5 +14,13 @@
     "Price": 10000.0,
     "Year": 2013,
     "Volume": 1.8
+  },
+  {
+    "Id": 3,
+    "Mark": "r              ",
+    "Color": "t              ",
+    "Price": 1.0,
+    "Year": 1,
+    "Volume": 1.0
   }
 ]

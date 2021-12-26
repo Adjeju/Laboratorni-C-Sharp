@@ -44,7 +44,7 @@ namespace Var15_Lab1Async
 
                 db.Cars.Add(newCar);
 
-                //db.SaveChanges();
+                db.SaveChanges();
 
                 dataGridView1.DataSource = db.Cars.ToList<Car>();
             }
