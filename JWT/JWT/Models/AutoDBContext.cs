@@ -28,7 +28,8 @@ namespace JWT.Models
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Name=AutoDB");
+#warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
+                optionsBuilder.UseSqlServer("Data Source=DESKTOP-AMKUDO4;Initial Catalog=AutoDB;Integrated Security=True");
             }
         }
 
@@ -46,6 +47,10 @@ namespace JWT.Models
             modelBuilder.Entity<Files>(entity =>
             {
                 entity.Property(e => e.Name).HasColumnName("name");
+
+                entity.Property(e => e.UploadDate)
+                    .HasColumnName("Upload_date")
+                    .HasColumnType("date");
 
                 entity.Property(e => e.Url).HasColumnName("url");
             });

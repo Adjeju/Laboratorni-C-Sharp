@@ -10,6 +10,8 @@ namespace JWT.Models
     public partial class Files
     {
         public int Id { get; set; }
+        public long? Size { get; set; }
+        public DateTime? UploadDate { get; set; }
         public string Name { get; set; }
         public string Url { get; set; }
     }
